@@ -1,0 +1,10 @@
+un objeto es una instancia de una clase-representa a algo en particular-(color,nombre,etc)
+poseen un comportameinto --> acciones
+
+atributos caracteriesticas de una clase 
+
+ejemplo 
+objeto-- automovil
+atributos -- color-modelo-precio-usado
+
+ABM ALTAS BAJAS Y MODIFICACIONES
